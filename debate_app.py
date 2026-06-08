@@ -133,7 +133,7 @@ html, body, [class*="css"] { font-family: 'IBM Plex Sans', sans-serif; backgroun
 div[data-testid="stStatusWidget"] {
     display: none !important;
 }    
-}
+
 </style>
 """, unsafe_allow_html=True)
 
